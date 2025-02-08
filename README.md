@@ -94,3 +94,6 @@ function render(component, container) {
   currentTree = newTree;
 }
 ```
+
+## Learn More
+- https://github.com/tigerabrodi/react-virtual-dom-diffing-algorithm
